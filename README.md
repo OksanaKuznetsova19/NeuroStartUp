@@ -13,6 +13,9 @@
 3. Низкая цена
    
   ## i study in Netology
-  
+
+i study git
+
+
 
 
